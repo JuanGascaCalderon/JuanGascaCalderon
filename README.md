@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" height="100" style="display: inline-block; vertical-align: middle;">
-<h1 style="display: inline-block; vertical-align: middle; margin: 0;">Hey, folks!👋 Nice to meet you</h1>
-<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" height="100" style="display: inline-block; vertical-align: middle;">
+# <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="120" height="120" style="vertical-align: middle;"> <span>Hey, folks!👋 Nice to meet you </span><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="120" height="120" style="vertical-align: middle;">
+
+
 I'm Juan Gasca, Mechatronics Engineer focused on Data Analysis 📊!
 <div id="badges">
   <a href="https://www.linkedin.com/in/juan-pablo-gasca-calderón-087613262" target="_blank">
