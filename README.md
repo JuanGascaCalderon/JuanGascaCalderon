@@ -20,25 +20,28 @@ I'm Juan Gasca, Mechatronics Engineer focused on Data Analysis 📊!
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/JuanGascaCalderon/JuanGascaCalderon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGascaCalderon&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&langs_count=3&card_width=200" />
-</a>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/JuanGascaCalderon/JuanGascaCalderon" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGascaCalderon&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&langs_count=3&card_width=200" />
+  </a>
 
-<a href="https://github.com/JuanGascaCalderon/IoT-Micropython-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=IoT-Micropython-Project&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
-</a>
+  <a href="https://github.com/JuanGascaCalderon/IoT-Micropython-Project" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=IoT-Micropython-Project&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
+  </a>
 
-<a href="https://github.com/JuanGascaCalderon/MiniProjects_Deep_Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=MiniProjects_Deep_Learning&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
-</a>
+  <a href="https://github.com/JuanGascaCalderon/MiniProjects_Deep_Learning" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=MiniProjects_Deep_Learning&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
+  </a>
 
-<a href="https://github.com/JuanGascaCalderon/Micropython-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=Micropython-Projects&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
-</a>
+  <a href="https://github.com/JuanGascaCalderon/Micropython-Projects" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=Micropython-Projects&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
+  </a>
 
-<a href="https://github.com/JuanGascaCalderon/NumPy-Challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=NumPy-Challenge&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
-</a>
+  <a href="https://github.com/JuanGascaCalderon/NumPy-Challenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=NumPy-Challenge&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
+  </a>
+</div>
+
 
 
 
