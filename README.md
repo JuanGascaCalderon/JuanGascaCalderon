@@ -1,6 +1,12 @@
-# <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" height="30px" />              <h1> Hello, folks! <h1> <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" height="30px" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JuanGascaCalderon.visitor-badge" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Juan+Gasca!+;" />
+</h1>
+<h3 align="center">Mechatronics Engineer focused on Data Analysis 📊!</h3>
+<br/>
+<div align="center">
 
-I'm Juan Gasca, Mechatronics Engineer focused on Data Analysis 📊!
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/juan-pablo-gasca-calderón-087613262" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
