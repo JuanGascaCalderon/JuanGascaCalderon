@@ -1,7 +1,17 @@
-<h1 align="center">
+<h1 align="center" style="color: #4CAF50;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Folks!+👋;+I'm+Juan+Gasca!+;" />
 </h1>
 <h3 align="center">Mechatronics Engineer focused on Data Analysis 📊!</h3>
+<div align="center">
+<div id="badges">
+  <a href="https://www.linkedin.com/in/juan-pablo-gasca-calderón-087613262" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/jp.calderon/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
 <br/>
 <div align="center">
 
@@ -45,17 +55,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=NumPy-Challenge&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
   </a>
 </div>
-
-## &#x1f4c8; Social Networks
-<div id="badges">
-  <a href="https://www.linkedin.com/in/juan-pablo-gasca-calderón-087613262" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/jp.calderon/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
 
 
 
