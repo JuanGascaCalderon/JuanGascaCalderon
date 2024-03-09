@@ -1,6 +1,6 @@
-<img align="right" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611vxbj13vb9djxg95g2o9u5kiejvkq1qklk0db3ty6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=40/>
+<img align="right" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611vxbj13vb9djxg95g2o9u5kiejvkq1qklk0db3ty6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=5/>
 
-<img align="left" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611vxbj13vb9djxg95g2o9u5kiejvkq1qklk0db3ty6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=40/>
+<img align="left" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611vxbj13vb9djxg95g2o9u5kiejvkq1qklk0db3ty6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=5/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Folks!+👋;+I'm+Juan+Gasca!+;" />
