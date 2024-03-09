@@ -1,8 +1,6 @@
-<div style="text-align: center; display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" style="vertical-align: middle;">
-    <h1 style="margin: 0;">Hey, folks!👋 Nice to meet you</h1>
-    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" style="vertical-align: middle;">
-</div>
+<div style="display: flex; align-items: center; justify-content: center;"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" style="vertical-align: middle;"><h1 style="margin: 0;">Hey, folks!👋 Nice to meet you</h1><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" style="vertical-align: middle;"></div>
+
+
 
 I'm Juan Gasca, Mechatronics Engineer focused on Data Analysis 📊!
 <div id="badges">
