@@ -37,40 +37,40 @@
             position: relative; /* Establecer la posición relativa */
             display: inline-block; /* Hacer que el elemento sea un bloque en línea */
         }
-    .container p::after {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: linear-gradient(to bottom right, transparent 50%, #CCCCCC 50%);
-        z-index: -1;
-        transform: skew(-15deg);
-    }
-    .code-container {
-        background-color: #999999; /* Cambiamos el color de fondo del nuevo contenedor */
-        padding: 0px;
-        border-radius: 10px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        display: flex;
-        flex-wrap: wrap; /* Permitimos que los elementos se envuelvan a la siguiente línea */
-        align-items: center;
-        justify-content: center; /* Alinear los elementos al centro horizontalmente */
-        margin-top: 10px; /* Agregamos un margen superior para separar del contenido anterior */
-        overflow: auto; /* Añadimos un desplazamiento si el contenido supera el tamaño del contenedor */
-    }
-    .code-container h2 {
-        width: 90%; /* Asegurarse de que el título ocupe todo el ancho del contenedor */
-        color: #000000; /* Mantener el color del texto negro para el contraste */
-        font-family: Arial, sans-serif; /* Usar la misma fuente que el contenedor anterior */  
-        font-weight: bold; /* Hacer el texto en negrita */
-        margin-bottom: 5px; /* Agregamos margen inferior al título para separarlo de los distintivos */     
-    }
-    .badge {
-        margin: 5px; /* Agregamos un pequeño margen alrededor de los distintivos */
-        height: auto; /* Permitir que la altura se ajuste automáticamente para mantener la proporción */
-    }
+        .container p::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to bottom right, transparent 50%, #CCCCCC 50%);
+            z-index: -1;
+            transform: skew(-15deg);
+        }
+        .code-container {
+            background-color: #999999; /* Cambiamos el color de fondo del nuevo contenedor */
+            padding: 0px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-wrap: wrap; /* Permitimos que los elementos se envuelvan a la siguiente línea */
+            align-items: center;
+            justify-content: center; /* Alinear los elementos al centro horizontalmente */
+            margin-top: 10px; /* Agregamos un margen superior para separar del contenido anterior */
+            overflow: auto; /* Añadimos un desplazamiento si el contenido supera el tamaño del contenedor */
+        }
+        .code-container h2 {
+            width: 90%; /* Asegurarse de que el título ocupe todo el ancho del contenedor */
+            color: #000000; /* Mantener el color del texto negro para el contraste */
+            font-family: Arial, sans-serif; /* Usar la misma fuente que el contenedor anterior */  
+            font-weight: bold; /* Hacer el texto en negrita */
+            margin-bottom: 5px; /* Agregamos margen inferior al título para separarlo de los distintivos */     
+        }
+        .badge {
+            margin: 5px; /* Agregamos un pequeño margen alrededor de los distintivos */
+            height: auto; /* Permitir que la altura se ajuste automáticamente para mantener la proporción */
+        }
     </style>
 </head>
 <body>
