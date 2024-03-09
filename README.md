@@ -1,8 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.giphy.com/media/4s00OQ5tmLZTSkdLgz/giphy.gif?cid=ecf05e47luulhguvfdly10rzogbtpf4l5t989do77696kqmt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" height="100" style="vertical-align: middle;">
-  <h2 style="font-size: 24px;">Hey, folks!👋 Nice to meet you</h2>
-</div>
-
+# <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80" height="100" style="vertical-align: middle;">Hey, folks!👋 Nice to meet you <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80">
 
 I'm Juan Gasca, Mechatronics Engineer focused on Data Analysis 📊!
 <div id="badges">
