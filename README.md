@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" style="display: inline-block; vertical-align: middle;">
+<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" height="100" style="display: inline-block; vertical-align: middle;">
 <h1 style="display: inline-block; vertical-align: middle; margin: 0;">Hey, folks!👋 Nice to meet you</h1>
-<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" style="display: inline-block; vertical-align: middle;">
+<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" height="100" style="display: inline-block; vertical-align: middle;">
 
 
 
