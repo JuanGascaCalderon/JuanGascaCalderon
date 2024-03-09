@@ -1,8 +1,9 @@
 <div style="text-align: center;">
     <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" style="vertical-align: middle;">
-    <span style="vertical-align: middle;">Hey, folks!👋 Nice to meet you </span>
+    <h1 style="display: inline-block; vertical-align: middle;">Hey, folks!👋 Nice to meet you </h1>
     <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b76113gkty6uio7euxdwxc26andf9bezlgkxqsfhunp7s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" style="vertical-align: middle;">
 </div>
+
 
 
 
