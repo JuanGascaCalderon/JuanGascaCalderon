@@ -1,5 +1,5 @@
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pidjgzeTQxYzhiODFrczQzODE3Mzd2eW5yNmxvc2RncTR3dDBldSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zX5Lf9WcW6ojm/giphy.gif" width="100" height="100" style="vertical-align: middle;"> Hey, folks!👋 Nice to meet you
+# <img src="https://media.giphy.com/media/4s00OQ5tmLZTSkdLgz/giphy.gif?cid=ecf05e47luulhguvfdly10rzogbtpf4l5t989do77696kqmt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" height="100" style="vertical-align: middle;">Hey, folks!👋 Nice to meet you
 
 I'm Juan Gasca, Mechatronics Engineer focused on Data Analysis 📊!
 <div id="badges">
