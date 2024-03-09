@@ -6,13 +6,14 @@
 
 I'm Juan Gasca, Mechatronics Engineer focused on Data Analysis 📊!
 <div id="badges">
-  <a href="www.linkedin.com/in/juan-pablo-gasca-calderón-087613262" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-pablo-gasca-calderón-087613262" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/jp.calderon/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
 
 
 
