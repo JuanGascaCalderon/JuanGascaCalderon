@@ -1,6 +1,6 @@
 
 <div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/4s00OQ5tmLZTSkdLgz/giphy.gif?cid=ecf05e47luulhguvfdly10rzogbtpf4l5t989do77696kqmt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" height="100" style="vertical-align: middle;">
+  <img src="https://media.giphy.com/media/4s00OQ5tmLZTSkdLgz/giphy.gif?cid=ecf05e47luulhguvfdly10rzogbtpf4l5t989do77696kqmt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200" height="200" style="vertical-align: middle;">
   <h2 style="margin-left: 10px;">Hey, folks!👋 Nice to meet you</h2>
 </div>
 
