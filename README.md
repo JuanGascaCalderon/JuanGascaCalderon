@@ -19,6 +19,7 @@ I'm Juan Gasca, Mechatronics Engineer focused on Data Analysis 📊!
 
 
 
+
 ## 🔧 Technologies & Tools 🖥️
 ![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffdd54&color=2b6cb0)
 ![Power BI Badge](https://img.shields.io/badge/Tools-Power_BI-informational?style=flat&logo=powerbi&logoColor=black&color=2b6cb0)
