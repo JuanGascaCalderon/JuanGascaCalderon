@@ -1,26 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JuanGascaCalderon.visitor-badge" />
+<img align="right" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611vxbj13vb9djxg95g2o9u5kiejvkq1qklk0db3ty6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=40/>
+
+<img align="left" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611vxbj13vb9djxg95g2o9u5kiejvkq1qklk0db3ty6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=40/>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Juan+Gasca!+;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Folks!+👋;+I'm+Juan+Gasca!+;" />
 </h1>
 <h3 align="center">Mechatronics Engineer focused on Data Analysis 📊!</h3>
 <br/>
 <div align="center">
-
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/juan-pablo-gasca-calderón-087613262" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/jp.calderon/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
-
-
-
-
-
 
 ## 🔧 Technologies & Tools 🖥️
 ![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffdd54&color=2b6cb0)
@@ -38,12 +25,9 @@
 ![MySQL Badge](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2b6cb0)
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Proyects
 
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/JuanGascaCalderon/JuanGascaCalderon" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGascaCalderon&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&langs_count=3&card_width=200" />
-  </a>
 
   <a href="https://github.com/JuanGascaCalderon/IoT-Micropython-Project" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=IoT-Micropython-Project&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
