@@ -1,7 +1,3 @@
-<img align="right" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611vxbj13vb9djxg95g2o9u5kiejvkq1qklk0db3ty6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=5/>
-
-<img align="left" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611vxbj13vb9djxg95g2o9u5kiejvkq1qklk0db3ty6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=5/>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Folks!+👋;+I'm+Juan+Gasca!+;" />
 </h1>
@@ -46,6 +42,15 @@
   </a>
 </div>
 
+## &#x1f4c8; Social Networks
+<div id="badges">
+  <a href="https://www.linkedin.com/in/juan-pablo-gasca-calderón-087613262" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/jp.calderon/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
 
 
