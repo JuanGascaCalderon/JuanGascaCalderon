@@ -50,11 +50,11 @@
   </a>
 
   <a href="https://github.com/JuanGascaCalderon/Robot_Arm_4GDL" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=Micropython-Projects&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=Robot_Arm_4GDL&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
   </a>
 
   <a href="https://github.com/JuanGascaCalderon/DataScienceProjectCoursera">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=NumPy-Challenge&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=DataScienceProjectCoursera&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
   </a>
 </div>
 
