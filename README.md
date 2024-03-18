@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+    
+![](https://komarev.com/ghpvc/?username=JuanGascaCalderon&color=brightgreen)
 
 <br/>
 <div align="center">
