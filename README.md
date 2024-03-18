@@ -49,11 +49,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=MiniProjects_Deep_Learning&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
   </a>
 
-  <a href="https://github.com/JuanGascaCalderon/Micropython-Projects" style="margin-right: 10px;">
+  <a href="https://github.com/JuanGascaCalderon/Robot_Arm_4GDL" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=Micropython-Projects&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
   </a>
 
-  <a href="https://github.com/JuanGascaCalderon/NumPy-Challenge">
+  <a href="https://github.com/JuanGascaCalderon/DataScienceProjectCoursera">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGascaCalderon&repo=NumPy-Challenge&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&card_width=200" />
   </a>
 </div>
