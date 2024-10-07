@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #4CAF50;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Folks!+👋;+I'm+Juan+Gasca!+;" />
 </h1>
-<h3 align="center">Mechatronics Engineer focused on Data Science 🧪📊!</h3>
+<h3 align="center">Mechatronics Engineer focused on Data  🧪📊!</h3>
 <div align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/juan-pablo-gasca-calderón-087613262" target="_blank">
